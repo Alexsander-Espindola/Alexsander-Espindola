@@ -1,11 +1,11 @@
-<div align="center">
+<div>
   <a href="https://www.linkedin.com/in/alexsander-rodrigues99366/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "Alexsander81002745@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=noel-srocha&hide=contribs&count_private=trueshow_icons=truetheme=algolia"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noel-srocha&layout=compact"></div>
+<div><img src="https://github-readme-stats.vercel.app/api?username=noel-srocha&hide=contribs&count_private=trueshow_icons=truetheme=algolia"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noel-srocha&layout=compact"></div>
 
-<p align="center">
+<p>
   <img alig src="https://github-profile-trophy.vercel.app/?username=Alexsander-Espindola&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
