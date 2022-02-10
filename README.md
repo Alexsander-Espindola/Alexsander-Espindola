@@ -1,12 +1,12 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=noel-srocha&hide=contribs&count_private=trueshow_icons=truetheme=algolia"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noel-srocha&layout=compact"></div>
 
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=guilyx&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+  <img alig src="https://github-profile-trophy.vercel.app/?username=Alexsander-Espindola&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
 <p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=11147618695&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=11147618695&cover_image=true&theme=default&bar_color=e3e3e3&bar_color_cover=true">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=22egopihx34uyqkntxmvp2ujq&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=22egopihx34uyqkntxmvp2ujq&cover_image=true&theme=default&bar_color=e3e3e3&bar_color_cover=true">
   </a>
 </p>
 
