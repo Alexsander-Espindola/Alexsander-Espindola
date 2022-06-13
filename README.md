@@ -1,7 +1,7 @@
 ### Prazer sou o Alexsander Rodrigues e seja bem vindo ao meu github
 
 - 🌱 Estou atualmente: estudando Typescript pela Udemy e inglês pelo duolingo; praticando Python no HackerHank; e procurando emprego
-- ⚡ Fun fact: Tenho 1.93m, a altura quase exata para passar pelas portas da minha casa que tem 1.95m de altura
+- ⚡ Fun fact: Tenho 1.93m, a altura quase exata para não bater a cabeça nas portas da minha casa que tem 1.95m de altura
 
 
 ##
@@ -24,9 +24,12 @@
 </div>
 
 ##
-<a href="https://www.linkedin.com/in/alexsander-rodrigues99366/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  Email: Alexsander81002745@gmail.com </br>
+  Linkedin: https://www.linkedin.com/in/alexsander-espindola
+<!-- <a href="[
+https://www.linkedin.com/in/alexsander-espindola/](https://www.linkedin.com/in/alexsander-espindola/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </br>
   <a href = "Alexsander81002745@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+</div> -->
 
 <!--
 
