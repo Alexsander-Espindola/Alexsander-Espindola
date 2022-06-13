@@ -1,6 +1,6 @@
 ### Prazer sou o Alexsander Rodrigues e seja bem vindo ao meu github
 
-- 🌱 Estou atualmente studando Typescript e praticando Python no HackerHank
+- 🌱 Estou atualmente: estudando Typescript pela Udemy e inglês pelo duolingo; praticando Python no HackerHank; e procurando emprego
 - ⚡ Fun fact: Tenho 1.93m, a altura exata para passar pelas portas da minha casa que tem 1.95m de altura
 
 
